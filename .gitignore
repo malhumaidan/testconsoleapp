@@ -475,6 +475,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-./ConsoleAppGithubTest/test.json
-./ConsoleAppGithubTest/NewFile1.json
-!/ConsoleAppGithubTest/NewFile1.json
+ConsoleAppGithubTest/test.json
+ConsoleAppGithubTest/NewFile1.json
+ConsoleAppGithubTest/NewFile2.json
